@@ -1,0 +1,15 @@
+kode,kategori,nama,harga,satuan,deskripsi,tersedia
+1,Satuan,Pempek Kapal Selam Besar,18000,buah,Pempek isi telur bebek utuh gurih lezat,1
+2,Satuan,Pempek Lenjer Kecil,5000,buah,Pempek panjang lembut ikan tenggiri asli,1
+3,Satuan,Pempek Adaan Bulat,5000,buah,Pempek bulat wangi daun bawang gurih,1
+4,Satuan,Pempek Kulit Crispy,5000,buah,Pempek kulit renyah di luar kenyal di dalam,1
+5,Satuan,Pempek Keriting,5000,buah,Pempek bentuk keriting khas lembut,1
+6,Satuan,Pempek Pistel Pepaya,5000,buah,Pempek isi tumis pepaya muda gurih,1
+7,Satuan,Tekwan Porsi Komplit,20000,porsi,Kuah kaldu udang gurih jamur kuping sedap malam,1
+8,Satuan,Model Ikan Tahu,20000,porsi,Pempek tahu disiram kuah tekwan hangat,1
+9,Satuan,Lenggang Panggang,18000,porsi,Pempek dipanggang dalam daun pisang berbalut telur,1
+10,Minuman,Es Kacang Merah Palembang,12000,porsi,Kacang merah empuk manis santan dan susu kental,1
+11,Minuman,Es Jeruk Kunci,8000,gelas,Segar asam manis jeruk kunci asli,1
+P1,Paket,Paket Mantap Pribadi (1 Kapal Selam + 2 Lenjer + 2 Adaan),35000,paket,Cocok untuk makan sendiri sangat kenyang,1
+P2,Paket,Paket Berdua Hangat (2 Porsi Tekwan + 4 Pempek Campur),55000,paket,Pas dinikmati berdua lengkap tekwan dan pempek,1
+P3,Paket,Paket Keluarga Palembang (2 Kapal Selam + 10 Pempek Campur + 2 Tekwan),110000,paket,Pilihan hemat favorit keluarga,1

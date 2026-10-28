@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: warung-kuliner-chatbot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: NAMA_WARUNG
+        value: "Warung Kuliner Pempek & Tekwan Mama"
+      - key: NOMOR_WA_ORTU
+        sync: false
+      - key: FONNTE_TOKEN
+        sync: false
+      - key: QRIS_IMAGE_URL
+        sync: false
+      - key: GATEWAY_PROVIDER
+        value: "fonnte"
